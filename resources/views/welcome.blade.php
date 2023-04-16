@@ -371,7 +371,7 @@
                 <div class="wrap">
                     <div class="wrap_float">
                         <div class="footer_head_mobile">
-                            <div class="logo">lavella</div>
+                            <div class="logo">Regal Tour</div>
                             <div class="text">
                                 Far far away, behind the word mountains, far from the countries Vokalia and Consonantia,
                                 there live the blind texts.
